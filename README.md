@@ -4,4 +4,6 @@ This is my professional resume.  It was created to not only showcase my professi
 
 This was created from scratch inspired by online tutorials.
 
-I also have Beginner level experience using JavaScript which will be showcased on separate repositories.
+I also have junior level experience using JavaScript and Python which will be showcased on separate repositories.
+
+My background is in education, both formal and informal as well as museum education and digital engagement.
